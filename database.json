@@ -1,0 +1,8 @@
+{
+    "dev": {
+      "driver": "pg",
+      "url": "postgresql://USER:PASSWORD@EXTERNAL_HOST:PORT/DATABASE",
+      "ssl": true
+    }
+  }
+  
